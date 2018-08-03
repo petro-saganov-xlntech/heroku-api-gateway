@@ -1,0 +1,12 @@
+{
+    "name": "saganov/heroku-api-gateway",
+    "description": "This is an API gateway to proxies requests for specific hosts according to the API version in the request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Saganov",
+            "email": "psaganov@xlntech.co.uk"
+        }
+    ],
+    "require": {}
+}
